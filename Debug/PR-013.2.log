@@ -1,0 +1,4 @@
+﻿  PR-013.2.cpp
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-013.2\PR-013.2.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-013.2\PR-013.2.cpp(10,34): warning C4101: 'maxim': unreferenced local variable
+  PR-013.2.vcxproj -> C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-013.2\Debug\PR-013.2.exe
